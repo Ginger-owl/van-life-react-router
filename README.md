@@ -1,4 +1,5 @@
-# coe924bbe83c03b598d70a105
+# Van-Life – Learn React Router Project
+## By Scrimba
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
